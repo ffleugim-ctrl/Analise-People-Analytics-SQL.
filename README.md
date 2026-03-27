@@ -1,1 +1,0 @@
-# Analise-People-Analytics-SQL.
